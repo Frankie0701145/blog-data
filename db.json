@@ -54,12 +54,12 @@
         }
     ],
     "comments": [
-      { "id": 1, "body": "some comment some comment some comment some comment some comment some comment some comment some comment", "blogId": 1 },
-      { "id": 2, "body": "some comment", "blogId": 1 },
-      { "id": 3, "body": "some comment", "blogId": 1 },
-      { "id": 4, "body": "some comment", "blogId": 1 },
-      { "id": 5, "body": "some comment", "blogId": 2 },
-      { "id": 6, "body": "some comment", "blogId": 2 },
-      { "id": 7, "body": "some comment", "blogId": 3 }
+      { "id": 1, "body": "some comment some comment some comment some comment some comment some comment some comment some comment", "blogId": 1, "name": "Denis" },
+      { "id": 2, "body": "some comment", "blogId": 1,"name": "Jack" },
+      { "id": 3, "body": "some comment", "blogId": 1,"name": "James" },
+      { "id": 4, "body": "some comment", "blogId": 1,"name": "Joseph" },
+      { "id": 5, "body": "some comment", "blogId": 2, "name": "Faith" },
+      { "id": 6, "body": "some comment", "blogId": 2,"name": "Henry" },
+      { "id": 7, "body": "some comment", "blogId": 3,"name": "Mark" }
     ]
 } 
