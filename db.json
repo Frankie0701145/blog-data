@@ -12,49 +12,49 @@
         },
         { 
             "id": 2,
-            "title": "Bost 1",
+            "title": "Post 2",
             "photoUrl": "https://lets-share.nyc3.digitaloceanspaces.com/chain-1812013_1280.jpg",
             "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
             "commentNo": 3
         },
         { 
             "id": 3,
-            "title": "Post 1",
+            "title": "Lorem Ipsum",
             "photoUrl": "https://lets-share.nyc3.digitaloceanspaces.com/girl-1868930_1280.jpg",
-            "body": "",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "commentNo": 3
         },
         { 
             "id": 4,
-            "title": "Post 1",
+            "title": "History",
             "photoUrl": "https://lets-share.nyc3.digitaloceanspaces.com/girl-1868930_1280.jpg",
             "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
             "commentNo": 3
         },
         { 
             "id": 5,
-            "title": "Post 1",
+            "title": "Fashion",
             "photoUrl": "https://lets-share.nyc3.digitaloceanspaces.com/wedding-rings-3611277_1280.jpg",
             "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
             "commentNo": 3
         },
         { 
             "id": 6,
-            "title": "Post 1",
+            "title": "Jewellery",
             "photoUrl": "https://lets-share.nyc3.digitaloceanspaces.com/chain-1812013_1280.jpg",
             "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
             "commentNo": 3
         },
         { 
             "id": 8,
-            "title": "Post 1",
+            "title": "Determination",
             "photoUrl": "https://lets-share.nyc3.digitaloceanspaces.com/wedding-rings-3611277_1280.jpg",
             "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
             "commentNo": 3
         }
     ],
     "comments": [
-      { "id": 1, "body": "some comment some comment some comment some comment some comment some comment some comment some comment", "blogId": 1, "name": "Denis" },
+      { "id": 1, "body": "some comment some comment some comment some ", "blogId": 1, "name": "Denis" },
       { "id": 2, "body": "some comment", "blogId": 1,"name": "Jack" },
       { "id": 3, "body": "some comment", "blogId": 1,"name": "James" },
       { "id": 4, "body": "some comment", "blogId": 1,"name": "Joseph" },
